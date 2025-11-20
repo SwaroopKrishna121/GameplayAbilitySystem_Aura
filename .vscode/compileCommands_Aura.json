@@ -24,6 +24,14 @@
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
 	},
 	{
+		"file": "C:\\UnrealEngine\\Aura\\Source\\Aura\\Private\\Character\\AuraCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UnrealEngine\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
 		"file": "C:\\UnrealEngine\\Aura\\Source\\Aura\\Private\\Character\\AuraCharacterBase.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
@@ -32,7 +40,79 @@
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
 	},
 	{
+		"file": "C:\\UnrealEngine\\Aura\\Source\\Aura\\Private\\Character\\AuraEnemy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UnrealEngine\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UnrealEngine\\Aura\\Source\\Aura\\Private\\Game\\AuraGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UnrealEngine\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UnrealEngine\\Aura\\Source\\Aura\\Private\\Interface\\EnemyInterface.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UnrealEngine\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UnrealEngine\\Aura\\Source\\Aura\\Private\\Player\\AuraPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UnrealEngine\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UnrealEngine\\Aura\\Source\\Aura\\Public\\Character\\AuraCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UnrealEngine\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
 		"file": "C:\\UnrealEngine\\Aura\\Source\\Aura\\Public\\Character\\AuraCharacterBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UnrealEngine\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UnrealEngine\\Aura\\Source\\Aura\\Public\\Character\\AuraEnemy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UnrealEngine\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UnrealEngine\\Aura\\Source\\Aura\\Public\\Game\\AuraGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UnrealEngine\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UnrealEngine\\Aura\\Source\\Aura\\Public\\Interface\\EnemyInterface.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UnrealEngine\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UnrealEngine\\Aura\\Source\\Aura\\Public\\Player\\AuraPlayerController.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
 			"@C:\\UnrealEngine\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
