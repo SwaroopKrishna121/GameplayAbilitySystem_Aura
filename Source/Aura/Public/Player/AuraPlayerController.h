@@ -44,7 +44,11 @@ private:
 
 	void CursorTrace();
 
-	IEnemyInterface* ThisActor;
-	IEnemyInterface* LastActor;
+	TScriptInterface<IEnemyInterface> LastActor;
+	TScriptInterface<IEnemyInterface> ThisActor;
+
+	// Old version using raw interface pointers
+	// IEnemyInterface* ThisActor;
+	// IEnemyInterface* LastActor;
 
 };
