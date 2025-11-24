@@ -8,7 +8,11 @@
             "intelliSenseMode": "msvc-x64",
             "compileCommands": [
                 "C:\\UnrealEngine\\Aura\\.vscode\\compileCommands_Aura.json"
-            ]
+            ],
+            "includePath": [ 
+                "${workspaceFolder}\\Intermediate\\**", 
+                "${workspaceFolder}\\Source\\**" 
+            ]     
         },
         {
             "name": "Win32",
@@ -18,6 +22,10 @@
             "intelliSenseMode": "msvc-x64",
             "compileCommands": [
                 "C:\\UnrealEngine\\Aura\\.vscode\\compileCommands_Default.json"
+            ],
+            "includePath": [ 
+                "${workspaceFolder}\\Intermediate\\**",  
+                "${workspaceFolder}\\Source\\**" 
             ]
         }
     ],

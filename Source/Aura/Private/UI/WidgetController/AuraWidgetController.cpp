@@ -16,3 +16,8 @@ void UAuraWidgetController::BroadcastInitialValues()
     // Default implementation does nothing.
 }
 
+void UAuraWidgetController::BindCallbacksToDependencies()
+{
+    // Default implementation does nothing.
+}
+
